@@ -1,4 +1,4 @@
-✈️ Airline Data Analysis Using SQL</b><br><br>
+✈️<b> Airline Data Analysis Using SQL</b><br><br>
 <b>📂 Project Overview:</b><br>
 The goal of this project is to analyze airline operational data using SQL and Python to identify opportunities to improve flight occupancy on underperforming routes, which can lead to increased profitability.<br><br>
 
